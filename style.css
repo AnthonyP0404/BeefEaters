@@ -3,3 +3,7 @@
 .marker {
     font-family: 'Permanent Marker', cursive;
 }
+
+.nav-item:hover {
+    background: rgba(255, 255, 255, 0.171);
+}
