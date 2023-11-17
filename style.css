@@ -6,7 +6,7 @@
     font-family: 'Permanent Marker', cursive;
 }
 
-.nav-item:hover {
+.nav-item:hover, .social:hover{
     background: rgba(255, 255, 255, 0.171);
 }
 
@@ -16,4 +16,9 @@
 
 .card:hover{
     transform: scale(1.05)
+}
+
+form {
+    border: solid 1px black;
+    padding: 5px;
 }
