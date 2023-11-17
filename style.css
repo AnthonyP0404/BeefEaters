@@ -8,3 +8,7 @@
     background: rgba(255, 255, 255, 0.171);
 }
 
+form {
+    border: solid 1px black;
+    padding: 5px;
+}
