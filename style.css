@@ -1,11 +1,21 @@
 @import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Permanent+Marker&display=swap');
 
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans+Narrow&family=Permanent+Marker&display=swap');
+
 .marker {
     font-family: 'Permanent Marker', cursive;
 }
 
 .nav-item:hover, .social:hover{
     background: rgba(255, 255, 255, 0.171);
+}
+
+.menuStyle{
+    font-family: 'PT Sans Narrow', sans-serif;
+}
+
+.card:hover{
+    transform: scale(1.05)
 }
 
 form {
