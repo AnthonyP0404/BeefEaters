@@ -13,3 +13,7 @@
 .menuStyle{
     font-family: 'PT Sans Narrow', sans-serif;
 }
+
+.card:hover{
+    transform: scale(1.05)
+}
